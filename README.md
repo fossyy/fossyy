@@ -7,7 +7,7 @@ I'm Bagas, a high school student who loves programming and is passionate about b
 - **Python:** I have extensive experience in developing backend applications using Python. I'm familiar with popular Python web frameworks like Django and Flask and have worked with libraries like NumPy, Pandas, and Matplotlib for data analysis and visualization.
 - **Docker:** I'm proficient in containerizing applications using Docker and deploying them to production environments. I'm familiar with Docker Compose for managing multi-container applications and have worked with Docker Swarm for container orchestration.
 - **PHP:** I have experience in developing PHP applications using popular frameworks like Laravel and CodeIgniter. I'm familiar with object-oriented programming principles in PHP and have worked with databases like MySQL and PostgreSQL.
-- **JavaScript:** I have expertise in developing frontend applications using JavaScript, including popular frameworks like React and Vue.js. I'm familiar with JavaScript libraries like jQuery and D3.js for data visualization and have worked with Node.js for server-side JavaScript development.
+- **JavaScript:** I'm currently learning the basics of JavaScript, including popular frameworks like React and Vue.js. I'm familiar with JavaScript libraries like jQuery and D3.js for data visualization and have worked with Node.js for server-side JavaScript development.
 
 ## Projects
 
