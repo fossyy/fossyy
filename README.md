@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I'm [your name], a high school student who loves programming and is passionate about building software that makes a difference. I specialize in Python, Docker, PHP, and JavaScript, and I'm always looking for new challenges to improve my skills.
+I'm Bagas, a high school student who loves programming and is passionate about building software that makes a difference. I specialize in Python, Docker, PHP, and JavaScript, and I'm always looking for new challenges to improve my skills.
 
 ## Skills
 
