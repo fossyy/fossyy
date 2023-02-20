@@ -13,7 +13,8 @@ I'm Bagas, a high school student who loves programming and is passionate about b
 
 Here are some of my projects that showcase my skills in Python, Docker, PHP, and JavaScript:
 
-- [Project 1](https://github.com/your-username/project-1): .
+- [Project 1]([https://github.com/fossyy/Discord-Music-Bot]): Easy to use discord music bot.
+- [Project 2]([https://github.com/your-username/project-1](https://github.com/fossyy/Discord-Music-Bot)): An example of using ipc and OAuth for discord with python.
 
 ## Learning and Growth
 
