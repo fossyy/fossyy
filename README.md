@@ -13,9 +13,7 @@ I'm [your name], a high school student who loves programming and is passionate a
 
 Here are some of my projects that showcase my skills in Python, Docker, PHP, and JavaScript:
 
-- [Project 1](https://github.com/your-username/project-1): Description of the project and link to the repository.
-- [Project 2](https://github.com/your-username/project-2): Description of the project and link to the repository.
-- [Project 3](https://github.com/your-username/project-3): Description of the project and link to the repository.
+- [Project 1](https://github.com/your-username/project-1): .
 
 ## Learning and Growth
 
