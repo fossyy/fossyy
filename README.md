@@ -15,6 +15,7 @@ Here are some of my projects that showcase my skills in Python, Docker, PHP, and
 
 - [Project 1](https://github.com/fossyy/Discord-Music-Bot): Easy to use discord music bot.
 - [Project 2](https://github.com/fossyy/Discord-OAuth): An example of using ipc and OAuth for discord with python.
+- [Project 3](https://github.com/fossyy/docker-baseimage-ubuntu): A custom base image built with Ubuntu cloud image and S6 overlay.
 
 ## Learning and Growth
 
