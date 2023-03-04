@@ -17,6 +17,10 @@ Here are some of my projects that showcase my skills in Python, Docker, PHP, and
 - [Project 2](https://github.com/fossyy/Discord-OAuth): An example of using ipc and OAuth for discord with python.
 - [Project 3](https://github.com/fossyy/docker-baseimage-ubuntu): A custom base image built with Ubuntu cloud image and S6 overlay.
 
+## Docker Hub
+- [Docker Hub](https://hub.docker.com/u/kyuq2007): Easy to use discord music bot.
+- [ghcr io](https://ghcr.io/fossyy/docker-baseimage-ubuntu): Easy to use discord music bot.
+
 ## Learning and Growth
 
 As a high school student, I'm constantly learning and seeking to improve my skills. I enjoy exploring new technologies and experimenting with different programming languages and frameworks. I believe in the importance of lifelong learning and professional development, and I'm always striving to expand my knowledge and expertise.
