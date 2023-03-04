@@ -18,8 +18,8 @@ Here are some of my projects that showcase my skills in Python, Docker, PHP, and
 - [Project 3](https://github.com/fossyy/docker-baseimage-ubuntu): A custom base image built with Ubuntu cloud image and S6 overlay.
 
 ## Docker Hub
-- [Docker Hub](https://hub.docker.com/u/kyuq2007): Easy to use discord music bot.
-- [ghcr io](https://ghcr.io/fossyy/docker-baseimage-ubuntu): Easy to use discord music bot.
+- [Docker Hub](https://hub.docker.com/u/kyuq2007)
+- [ghcr io](https://ghcr.io/fossyy/docker-baseimage-ubuntu)
 
 ## Learning and Growth
 
