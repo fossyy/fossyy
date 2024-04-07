@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning golang<br>🎯 Goals: golang dev<br>🎲 Fun fact: .</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning golang<br>🎯 Goals: golang dev<br>🎲 Fun fact: /dev/null</p>
 
 ###
 
