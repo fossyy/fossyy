@@ -6,5 +6,5 @@ I build stuff, I break stuff, and I also host stuff. Yeah, that’s right I like
 >
 >— Some dude on Reddit
 
-![cool dude](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sbjI3Nmw3aDN3anhiMzIxZm8xcXgwOHRycndleG81aDl4NHEyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5PYaDIvutVzAR69w5/giphy.gif)
+![me](https://cdn.fossy.my.id/public/me.png)
 
